@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "306431392085",
+    "project_id": "coincdx-c80e6",
+    "storage_bucket": "coincdx-c80e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306431392085:android:e03d54911814e0052917dc",
+        "android_client_info": {
+          "package_name": "com.flutterflow.coindcx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306431392085-vbnni3gti8bjnthp2tcasqul4mpnecmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.coindcx",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "306431392085-pbpppjmevo604l1nmvanrodhl28rtgbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLfYA7yI8oJUOC_1np3mrRfML4RAC2ssI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306431392085-pbpppjmevo604l1nmvanrodhl28rtgbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306431392085-rhplgrb84nbp980mj48bnqs8dkldspdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.coindcx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
